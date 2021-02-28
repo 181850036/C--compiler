@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+<<<<<<< HEAD
+        "system_error": "cpp",
+        "xlocale": "cpp"
+=======
+        "xtree": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp"
+>>>>>>> L3
+    }
+}
